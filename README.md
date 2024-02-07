@@ -45,8 +45,7 @@ To run the Gemini Health App locally, follow these steps:
 
 
 
-![2](https://github.com/GaneshPatilDS/Health_App/![3](https://github.com/GaneshPatilDS/Health_App/assets/123234894/cd4dfd0d-4017-4cf5-a7ed-8c2f95907b72)
-
+![2](https://github.com/GaneshPatilDS/Health_App/assets/123234894/637cc2cd-1aea-4e64-9e5e-e12c10600bef)
 
 
 
