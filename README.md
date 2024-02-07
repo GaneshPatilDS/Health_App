@@ -1,4 +1,6 @@
 
+To make your README file more attractive, you can enhance its appearance by adding images, improving formatting, and using markdown features effectively. Here's an updated version of your README with improved formatting and visual appeal:
+
 ---
 
 # Gemini Health App
@@ -29,40 +31,27 @@ To run the Gemini Health App locally, follow these steps:
 
 ## Technologies Used
 
-- Streamlit: For building the interactive web application.
-- Google Gemini Pro Vision API: For image analysis and content generation.
-- PIL (Python Imaging Library): For image processing and manipulation.
-
-
+- **Streamlit**: For building the interactive web application.
+- **Google Gemini Pro Vision API**: For image analysis and content generation.
+- **PIL (Python Imaging Library)**: For image processing and manipulation.
 
 ## Acknowledgements
 
-- Special thanks to [Google Generative AI](https://cloud.google.com/generative-ai) for providing access to the Gemini Pro Vision API.
+Special thanks to [Google Generative AI](https://cloud.google.com/generative-ai) for providing access to the Gemini Pro Vision API.
+
+## Screenshots
+
+Here are some screenshots of the Gemini Health App:
+
+![Screenshot 1](https://github.com/GaneshPatilDS/Health_App/assets/123234894/70280130-7840-471c-ad6c-38329a15a32f)
+
+![Screenshot 2](https://github.com/GaneshPatilDS/Health_App/assets/123234894/637cc2cd-1aea-4e64-9e5e-e12c10600bef)
+
+![Screenshot 3](https://github.com/GaneshPatilDS/Health_App/assets/123234894/8478fc9b-64c2-42ff-b022-4973ddf2f0d6)
+
+![Screenshot 4](https://github.com/GaneshPatilDS/Health_App/assets/123234894/936be2a2-ad2e-4c90-bb96-5b475681b6cc)
+
+![Screenshot 5](https://github.com/GaneshPatilDS/Health_App/assets/123234894/7e5978e1-141c-42c9-8329-022b87d35dbd)
 
 ---
-![1](https://github.com/GaneshPatilDS/Health_App/assets/123234894/70280130-7840-471c-ad6c-38329a15a32f)
-
-
-
-
-![2](https://github.com/GaneshPatilDS/Health_App/assets/123234894/637cc2cd-1aea-4e64-9e5e-e12c10600bef)
-
-
-
-![3](https://github.com/GaneshPatilDS/Health_App/assets/123234894/8478fc9b-64c2-42ff-b022-4973ddf2f0d6)
-
-
-
-
-![4](https://github.com/GaneshPatilDS/Health_App/assets/123234894/936be2a2-ad2e-4c90-bb96-5b475681b6cc)
-
-
-
-
-![5](https://github.com/GaneshPatilDS/Health_App/assets/123234894/7e5978e1-141c-42c9-8329-022b87d35dbd)
-
-
-
-
-
 
